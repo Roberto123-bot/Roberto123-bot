@@ -20,19 +20,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,html,css,mysql,mongodb,git,github,vscode" />
-
-</p>
-
----
-
-# 📊 Estatísticas GitHub
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roberto123-bot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto123-bot&layout=compact&langs_count=7&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,vscode" />
 
 </p>
 
@@ -42,14 +30,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Roberto123-bot&theme=tokyonight" />
-</p>
-
----
-
-# 🏆 Troféus GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Roberto123-bot&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
