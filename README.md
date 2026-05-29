@@ -1,42 +1,93 @@
 # 👋 Olá, eu sou Roberto Cavalcanti
 
-🚀 Desenvolvedor Full Stack apaixonado por tecnologia.
-
-## 💻 Tecnologias
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
-![NodeJS](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Especialista+em+Node.js;React+e+React+Native;Criador+de+Sistemas+de+Loteria;Sempre+aprendendo+novas+tecnologias" />
+</p>
 
 ---
 
-## 📊 Estatísticas GitHub
+# 🚀 Sobre mim
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Roberto123-bot&theme=tokyonight)
-
----
-
-## 🚀 Projetos em destaque
-
-### 🎯 Sistema de Loteria
-Projeto completo com:
-- API
-- Painel administrativo
-- Controle FREE/PRO
-- Conferência automática
-
-### 📱 App de Resultados
-Aplicativo React Native para resultados de loteria.
+💻 Desenvolvedor Full Stack
+📱 Criador de aplicativos React Native
+⚙️ Especialista em Node.js e APIs
+🎯 Desenvolvendo sistemas de loteria e automações
+🔥 Apaixonado por tecnologia
 
 ---
 
-## 🌎 Redes sociais
+# 💻 Tecnologias
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_LINK)
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK)
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,html,css,mysql,mongodb,git,github,vscode" />
+
+</p>
 
 ---
 
+# 📊 Estatísticas GitHub
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roberto123-bot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto123-bot&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Sequência de Contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Roberto123-bot&theme=tokyonight" />
+</p>
+
+---
+
+# 🏆 Troféus GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Roberto123-bot&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+# 🚀 Projetos em Destaque
+
+## 🎯 Sistema de Loteria
+
+✔ API completa
+✔ Painel administrativo
+✔ Controle FREE/PRO
+✔ Conferência automática
+✔ Estatísticas inteligentes
+
+---
+
+## 📱 Aplicativo de Resultados
+
+Aplicativo React Native para resultados de loteria em tempo real.
+
+---
+
+# 🌎 Redes Sociais
+
+<p align="center">
+
+<a href="SEU_INSTAGRAM">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
 ⭐ Sempre aprendendo novas tecnologias.
+</p>
