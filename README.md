@@ -13,9 +13,7 @@
 
 ## 📊 Estatísticas GitHub
 
-![Roberto GitHub stats](https://github-readme-stats.vercel.app/api?username=Roberto123-bot&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto123-bot&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Roberto123-bot&theme=tokyonight)
 
 ---
 
